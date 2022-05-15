@@ -1,0 +1,12 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* height: 50vh !important; */
+    min-height: 670px;
+    /* background-image: url('../../assets/Home/shape-bg.jpg'); */
+
+    background-image: url('../../assets/Home/bg1a.jpg');
+
+
+}
