@@ -22,7 +22,7 @@ export default function Contactme() {
 //   console.log(err)
 // })
 
-Axios.post("http://localhost:5000/contactme",data).then((res)=>{
+Axios.post("https://amadipatrick.herokuapp.com/contactme",data).then((res)=>{
   alert("data succesfully Added")
   console.log(res)
   console.log("the message"+res.data.message)
