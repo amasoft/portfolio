@@ -10,6 +10,7 @@ return <div className="App">
 {/* <Profile/>
 <Footer/> */}
 <Home/>
+
 </div>
 
 }
